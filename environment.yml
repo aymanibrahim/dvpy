@@ -1,0 +1,14 @@
+name: dvpy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - scikit-learn
+  - nodejs
+  - ipywidgets
+  - jupyterlab
+  - rise
