@@ -8,7 +8,6 @@ dependencies:
   - seaborn
   - pandas
   - xlrd
-  - PIL
   - scikit-learn
   - nodejs
   - ipywidgets
