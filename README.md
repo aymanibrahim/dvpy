@@ -71,7 +71,7 @@ git clone git@github.com:aymanibrahim/dvpy.git
 ```
 OR [Download the repository as a .zip file](https://github.com/aymanibrahim/dvpy/archive/master.zip)
 
-### 2.2: Change directory to pyds
+### 2.2: Change directory to dvpy
 Change current directory to **dvpy** directory
 ```
 cd dvpy
