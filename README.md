@@ -16,32 +16,32 @@ This hands-on in-person workshop is based on [Data Visualization with Python Cou
 # [Outline](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/00_Outline.ipynb)
 The workshop will cover core topics:
 
-## [01 Intro](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/01_Intro.ipynb)
+## [01 Intro](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/01_Intro.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/01_Intro.ipynb)
 - Introduction to Data Visualization
 - Introduction to Matplotlib
 - Basic Plotting with Matplotlib
 - Dataset on Immigration to Canada
 - Line Plots
 
-## [02 Basic Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/02_Basic.ipynb)
+## [02 Basic Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/02_Basic.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/02_Basic.ipynb)
 - Area Plots
 - Histograms
 - Bar Charts
 
-## [03 Specialized Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/03_Specialized.ipynb)
+## [03 Specialized Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/03_Specialized.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/03_Specialized.ipynb)
 
 - Pie Charts
 - Box Plots
 - Scatter Plots
 - Bubble Plots
 
-## [04 Advanced Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/04_Model_Development.ipynb)
+## [04 Advanced Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/04_Model_Development.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/04_Model_Development.ipynb)
 
 - Waffle Charts
 - Word Clouds
 - Seaborn and Regression Plots
 
-## [05 Maps and Geospatial Data](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/05_Maps.ipynb)
+## [05 Maps and Geospatial Data](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/05_Maps.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/05_Maps.ipynb)
 
 - Introduction to Folium
 - Maps with Markers
