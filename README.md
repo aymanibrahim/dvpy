@@ -1,3 +1,5 @@
+![](./images/dvpy-1.png)
+
 ## Quick Start
 
 The workshop code is available as [Jupyter notebooks](https://github.com/aymanibrahim/dvpy/tree/master/notebooks). You can run the notebooks in the cloud (no installation required) by clicking the "launch binder" button:
@@ -8,6 +10,8 @@ The workshop code is available as [Jupyter notebooks](https://github.com/aymanib
 For people who struggle to start in data visualization with Python
 
 # Description
+![](./images/dvpy-2.png)
+
 This hands-on in-person workshop is based on [Data Visualization with Python Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/data-visualization-with-python/)
 
 >Learn how to represent data graphically to convey insights to clients, customers, and stakeholders.
@@ -17,6 +21,11 @@ This hands-on in-person workshop is based on [Data Visualization with Python Cou
 The workshop will cover core topics:
 
 ## [01 Intro](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/01_Intro.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/01_Intro.ipynb)
+
+Line Plot            |  Trend | Top 5
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./figs/01_Intro/immigration_from_haiti.png)  |  ![](./figs/01_Intro/immigration_from_china_india.png)|  ![](figs/01_Intro/immigration_trend_top5_countries.png)
+
 - Introduction to Data Visualization
 - Introduction to Matplotlib
 - Basic Plotting with Matplotlib
@@ -24,11 +33,20 @@ The workshop will cover core topics:
 - Line Plots
 
 ## [02 Basic Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/02_Basic.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/02_Basic.ipynb)
+
+Bar Chart            |  Histogram | Area Plot
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./figs/02_Basic/top15_immigration_countries_barh.png)  |  ![](./figs/02_Basic/immigration_from_195_countries_histogram.png)|  ![](figs/02_Basic/immigration_trend_top5_countries_modified_alpha.png)
+
 - Area Plots
 - Histograms
 - Bar Charts
 
 ## [03 Specialized Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/03_Specialized.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/03_Specialized.ipynb)
+
+Pie Chart            |  Box Plot | Bubble Plot
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./figs/03_Specialized/immigration_by_continent_2013_pie.png)  |  ![](./figs/03_Specialized/immigration_china_india_boxplot.png)|  ![](figs/03_Specialized/immigration_from_brazil_argentina_bubble.png)
 
 - Pie Charts
 - Box Plots
@@ -37,11 +55,19 @@ The workshop will cover core topics:
 
 ## [04 Advanced Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/04_Model_Development.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/04_Model_Development.ipynb)
 
+Waffle Chart            |  Word Cloud | Regression Plot
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./figs/04_Advanced/immigration_from_denmark_norway_sweden_waffle_chart.png)  |  ![](./figs/04_Advanced/top_wordcloud.png)|  ![](figs/04_Advanced/immigration_best_fit_white_seaborn.png)
+
 - Waffle Charts
 - Word Clouds
 - Seaborn and Regression Plots
 
 ## [05 Maps and Geospatial Data](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/05_Maps.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/05_Maps.ipynb)
+
+Choropleth Map             | Clusters Map 
+:-------------------------:|:-------------------------:|
+![](./figs/05_Maps/immigration_choropleth_map.png)  |  ![](./figs/05_Maps/incidents_sanfran_map_clusters.png)|  
 
 - Introduction to Folium
 - Maps with Markers
