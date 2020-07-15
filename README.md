@@ -53,7 +53,7 @@ Pie Chart            |  Box Plot | Bubble Plot
 - Scatter Plots
 - Bubble Plots
 
-## [04 Advanced Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/04_Model_Development.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/04_Model_Development.ipynb)
+## [04 Advanced Visualization](https://github.com/aymanibrahim/dvpy/blob/master/notebooks/04_Advanced.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/dvpy/blob/master/notebooks/04_Advanced.ipynb)
 
 Waffle Chart            |  Word Cloud | Regression Plot
 :-------------------------:|:-------------------------:|:-------------------------:
