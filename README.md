@@ -12,7 +12,7 @@ For people who struggle to start in data visualization with Python
 # Description
 ![](./images/dvpy-2.png)
 
-This hands-on in-person workshop is based on [Data Visualization with Python Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/data-visualization-with-python/)
+This hands-on in-person workshop is based on [Data Visualization with Python Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/data-visualization-python)
 
 >Learn how to represent data graphically to convey insights to clients, customers, and stakeholders.
 
